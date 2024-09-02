@@ -426,7 +426,7 @@ const changeRating = () => {
             <div class="p-4 text-center">
                 <h1 class="text-xl">Do you want to delete this stop: <span class="font-bold">{{ deleteForm.title
                         }}</span>?</h1>
-                <PersonalizedButton @click="submitDeleteForm" colorMode="secondary" label="SI" class="me-3" />
+                <PersonalizedButton @click="submitDeleteForm" colorMode="secondary" label="YES" class="me-3" />
                 <DangerButton @click="closeDeleteModal">NO</DangerButton>
             </div>
         </Modal>
