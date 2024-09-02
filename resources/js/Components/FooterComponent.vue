@@ -51,7 +51,7 @@ export default {
                                 class=" hover:text-[#fae9b8] transition ease-in-out duration-300">Santiago Galvan</a>
                         </li>
                         <li><a href="https://github.com/GioacchinoArgo" target="__blank"
-                                class=" hover:text-[#fae9b8] transition ease-in-out duration-300">Gioacchio Argo</a>
+                                class=" hover:text-[#fae9b8] transition ease-in-out duration-300">Gioacchino Argo</a>
                         </li>
                     </ul>
                 </div>
