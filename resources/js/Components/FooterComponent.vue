@@ -44,7 +44,7 @@ export default {
                         </li>
                         <li><a href="https://github.com/DaniAm94" target="__blank"
                                 class=" hover:text-[#fae9b8] transition ease-in-out duration-300">Danilo Amico</a></li>
-                        <li><a href="https://github.com/ariannacostanzo"
+                        <li><a href="https://github.com/ariannacostanzo" target="__blank"
                                 class=" hover:text-[#fae9b8] transition ease-in-out duration-300">Arianna Costanzo</a>
                         </li>
                         <li><a href="https://github.com/SantiGalvan" target="__blank"
