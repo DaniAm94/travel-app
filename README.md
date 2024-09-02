@@ -32,3 +32,12 @@ L'applicazione **Travel App** è progettata per aiutare gli utenti a pianificare
 ## Obiettivo dell'App
 
 L'obiettivo dell'app **Travel App** è di offrire un'esperienza utente semplice e intuitiva per pianificare e salvare itinerari di viaggio, consentendo agli utenti di visualizzare il loro percorso e le fermate direttamente su una mappa, con la possibilità di personalizzare ogni aspetto del loro viaggio.
+
+## Collaboratori
+
+- **[Emiliano Gastaldo](https://github.com/emilianogastaldo)**
+- **[Danilo Amico](https://github.com/DaniAm94)**
+- **[Arianna Costanzo](https://github.com/ariannacostanzo)**
+- **[Santiago Galvan](https://github.com/SantiGalvan)**
+- **[Gioacchino Argo](https://github.com/GioacchinoArgo)**
+
